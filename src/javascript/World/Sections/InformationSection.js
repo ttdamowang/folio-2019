@@ -89,7 +89,7 @@ export default class InformationSection
         // Options
         this.links.options = [
             {
-                href: 'https://twitter.com/bruno_simon/',
+                href: 'https://naughty-game.com/wordpress',
                 labelTexture: this.resources.items.informationContactTwitterLabelTexture
             },
             {
@@ -97,11 +97,11 @@ export default class InformationSection
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
-                href: 'https://www.linkedin.com/in/simonbruno77/',
+                href: 'https://github.com/ttdamowang',
                 labelTexture: this.resources.items.informationContactLinkedinLabelTexture
             },
             {
-                href: 'mailto:simon.bruno.77@gmail.com',
+                href: 'mailto:tttt19901010@gmail.com',
                 labelTexture: this.resources.items.informationContactMailLabelTexture
             }
         ]
